@@ -1,0 +1,233 @@
+#================================================================================================
+all ranks ordered alphabetically 
+#================================================================================================
+aberration
+class
+domain
+epifamily
+family
+form
+forma specialis
+genus
+gigaclass
+infraclass
+infrageneric name
+infrafamily
+infraphylum
+infraorder
+infraspecific name
+infrasubspecific name
+infratribe
+kingdom
+lusus
+megaclass
+mutatio
+nanorder
+order
+other
+parvorder
+parvphylum
+phylum
+proles
+realm
+section botany
+section zoology
+series
+species
+species aggregate
+subclass
+subfamily
+subform
+subgenus
+subkingdom
+suborder
+subphylum
+subsection botany
+subsection zoology
+subspecies
+subterclass
+subtribe
+subvariety
+superclass
+superfamily
+superorder
+supertribe
+tribe
+unranked
+variety
+#================================================================================================
+all ranks ordered alphabetically with " ↓
+#================================================================================================
+"aberration"
+"class"
+"domain"
+"epifamily"
+"family"
+"form"
+"forma specialis"
+"genus"
+"gigaclass"
+"infraclass"
+"infrageneric name"
+"infrafamily"
+"infraphylum"
+"infraorder"
+"infraspecific name"
+"infrasubspecific name"
+"infratribe"
+"kingdom"
+"lusus"
+"megaclass"
+"mutatio"
+"nanorder"
+"order"
+"other"
+"parvorder"
+"parvphylum"
+"phylum"
+"proles"
+"realm"
+"section botany"
+"section zoology"
+"series"
+"species"
+"species aggregate"
+"subclass"
+"subfamily"
+"subform"
+"subgenus"
+"subkingdom"
+"suborder"
+"subphylum"
+"subsection botany"
+"subsection zoology"
+"subspecies"
+"subterclass"
+"subtribe"
+"subvariety"
+"superclass"
+"superfamily"
+"superorder"
+"supertribe"
+"tribe"
+"unranked"
+"variety"
+#================================================================================================
+all ranks ordered alphabetically with " and , ↓
+#================================================================================================
+"aberration",
+"class",
+"domain",
+"epifamily",
+"family",
+"form",
+"forma specialis",
+"genus",
+"gigaclass",
+"infraclass",
+"infrageneric name",
+"infrafamily",
+"infraphylum",
+"infraorder",
+"infraspecific name",
+"infrasubspecific name",
+"infratribe",
+"kingdom",
+"lusus",
+"megaclass",
+"mutatio",
+"nanorder",
+"order",
+"other",
+"parvorder",
+"parvphylum",
+"phylum",
+"proles",
+"realm",
+"section botany",
+"section zoology",
+"series",
+"species",
+"species aggregate",
+"subclass",
+"subfamily",
+"subform",
+"subgenus",
+"subkingdom",
+"suborder",
+"subphylum",
+"subsection botany",
+"subsection zoology",
+"subspecies",
+"subterclass",
+"subtribe",
+"subvariety",
+"superclass",
+"superfamily",
+"superorder",
+"supertribe",
+"tribe",
+"unranked",
+"variety",
+#================================================================================================
+all ranks ordered alphabetically with " and , without breaks ↓
+#================================================================================================
+"aberration","class","domain","epifamily","family","form","forma specialis","genus","gigaclass","infraclass","infrageneric name","infrafamily","infraphylum","infraorder","infraspecific name","infrasubspecific name","infratribe","kingdom","lusus","megaclass","mutatio","nanorder","order","other","parvorder","parvphylum","phylum","proles","realm","section botany","section zoology","series","species","species aggregate","subclass","subfamily","subform","subgenus","subkingdom","suborder","subphylum","subsection botany","subsection zoology","subspecies","subterclass","subtribe","subvariety","superclass","superfamily","superorder","supertribe","tribe","unranked","variety",
+#================================================================================================
+all ranks ordered by actual rank with " and , without breaks ↓
+#================================================================================================
+"domain","realm","kingdom","subkingdom","phylum","subphylum","infraphylum","parvphylum","gigaclass","megaclass","superclass","class","subclass","infraclass","subterclass","superorder","order","suborder","infraorder","parvorder","nanorder","superfamily","epifamily","family","subfamily","infrafamily","supertribe","tribe","subtribe","infratribe","genus","subgenus","infrageneric name","section botany","subsection botany","section zoology","subsection zoology","series","species aggregate","species","infraspecific name","subspecies","infrasubspecific name","variety","subvariety","form","subform","forma specialis","aberration","lusus","mutatio","proles","unranked","other"
+#================================================================================================
+all ranks that are not contained in the dataset or not relevant (only accepted entries) ↓
+#================================================================================================
+"other"						single entry (in the filtered dataset)
+"proles"					no entry (in the filtered dataset)
+"mutatio"		 			no entry (in the filtered dataset)
+"lusus"						no entry (in the filtered dataset)
+"aberation" 				no entry (in the filtered dataset)
+"forma specialis" 			no entry (in the filtered dataset)
+"subform" 					no entry (in the filtered dataset)
+"infrasubspecific name" 	no entry (in the filtered dataset)
+"infraspecific name" 		no entry (in the filtered dataset)
+"species aggregate"			no entry (in the filtered dataset)
+"subsection zoology"		two entries (in the filtered dataset)
+"section zoology"			circa ten entries (in the filtered dataset)
+"subsection botany"			no entry (in the filtered dataset)
+"section botany"			two entries (in the filtered dataset)
+"infrageneric name"			no entry (in the filtered dataset)
+#================================================================================================
+ranks without the irrelevant ranks from abouve ↓
+#================================================================================================
+"domain","realm","kingdom","subkingdom","phylum","subphylum","infraphylum","parvphylum","gigaclass","megaclass","superclass","class","subclass","infraclass","subterclass","superorder","order","suborder","infraorder","parvorder","nanorder","superfamily","epifamily","family","subfamily","infrafamily","supertribe","tribe","subtribe","infratribe","genus","subgenus","series","species","subspecies",variety","subvariety","form",
+#================================================================================================
+all ranks that are not contained/irrelevant in the dataset or not relevant with , and without breaks ↓
+#================================================================================================
+"other","proles","mutatio","lusus","aberation","forma specialis","subform","infrasubspecific name","infraspecific name","species aggregate","subsection zoology","section zoology","subsection botany","section botany","infrageneric name",
+#================================================================================================
+baseline filter up to but not including species ↓
+#================================================================================================
+"subspecies",variety","subvariety","form","other","proles","mutatio","lusus","aberation","forma specialis","subform","infrasubspecific name","infraspecific name","species aggregate","subsection zoology","section zoology","subsection botany","section botany","infrageneric name",
+#================================================================================================
+baseline filter up to but not including genus ↓
+#================================================================================================
+"subgenus","series","species","subspecies",variety","subvariety","form","other","proles","mutatio","lusus","aberation","forma specialis","subform","infrasubspecific name","infraspecific name","species aggregate","subsection zoology","section zoology","subsection botany","section botany","infrageneric name",
+#================================================================================================
+baseline filter up to but not including tribe ↓
+#================================================================================================
+"subtribe","infratribe","genus","subgenus","series","species","subspecies",variety","subvariety","form","other","proles","mutatio","lusus","abberation","forma specialis","subform","infrasubspecific name","infraspecific name","species aggregate","subsection zoology","section zoology","subsection botany","section botany","infrageneric name",
+#================================================================================================
+baseline filter up to but not including family ↓
+#================================================================================================
+"subfamily","infrafamily","supertribe","tribe","subtribe","infratribe","genus","subgenus","series","species","subspecies",variety","subvariety","form","other","proles","mutatio","lusus","aberation","forma specialis","subform","infrasubspecific name","infraspecific name","species aggregate","subsection zoology","section zoology","subsection botany","section botany","infrageneric name",
+#================================================================================================
+baseline filter up to but not including order ↓
+#================================================================================================
+"suborder","infraorder","parvorder","nanorder","superfamily","epifamily","family","subfamily","infrafamily","supertribe","tribe","subtribe","infratribe","genus","subgenus","series","species","subspecies",variety","subvariety","form","other","proles","mutatio","lusus","aberation","forma specialis","subform","infrasubspecific name","infraspecific name","species aggregate","subsection zoology","section zoology","subsection botany","section botany","infrageneric name",
+#================================================================================================
+baseline filter up to but not including class ↓
+#================================================================================================
+"subclass","infraclass","subterclass","superorder","order","suborder","infraorder","parvorder","nanorder","superfamily","epifamily","family","subfamily","infrafamily","supertribe","tribe","subtribe","infratribe","genus","subgenus","series","species","subspecies",variety","subvariety","form","other","proles","mutatio","lusus","aberation","forma specialis","subform","infrasubspecific name","infraspecific name","species aggregate","subsection zoology","section zoology","subsection botany","section botany","infrageneric name",
+#================================================================================================
+baseline filter up to but not including phylum ↓
+#================================================================================================
+"subphylum","infraphylum","parvphylum","gigaclass","megaclass","superclass","class","subclass","infraclass","subterclass","superorder","order","suborder","infraorder","parvorder","nanorder","superfamily","epifamily","family","subfamily","infrafamily","supertribe","tribe","subtribe","infratribe","genus","subgenus","series","species","subspecies",variety","subvariety","form","other","proles","mutatio","lusus","aberation","forma specialis","subform","infrasubspecific name","infraspecific name","species aggregate","subsection zoology","section zoology","subsection botany","section botany","infrageneric name",
