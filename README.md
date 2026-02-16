@@ -4,5 +4,5 @@ The first script, "filter.py", removes columns and rows that can be adapted to y
 The second script, "branchselector.py", can use the output of the first script or the original dataset and select downward from a specific item. So if you want to only have the animals not the rest just input the respictive value from the column "col:id". The script contains a basic list of the main branches of the tree of life (like animalia, bacteria, ...).
 The data can then be visualized in programs like cytoscape that have evry powerful visualization tools. One drawback is that the individual branches are not of the same lenght. Addressing this via another script has not had any promising results for me but perhaps you will succeed.
 
-This might change in the future, but it might be necessary to add a parentID to eukaryota, as well changing virae: L2TCC,,accepted,Viruses,unranked (col:ID,col:parentID,col:status,col:scientificName,col:rank).
+This might change in the future, but it might be necessary to add a parentID to eukaryota, as well changing virae: L2TCC,,accepted,Viruses,unranked (col:ID,col:parentID,col:status,col:scientificName,col:rank).In general at the highest level of the tree of life it gets a bit messy so a bit of editing for a handful of entries is necessary depending on what you want to do.
 
